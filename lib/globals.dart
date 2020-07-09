@@ -64,5 +64,4 @@ List quotesList = [
   "\"Is there a way we can do something like that by injection inside or almost a cleaning? It sounds interesting to me, so we'll see. But the whole concept of the light, the way it kills it in one minute. That's pretty powerful.\"",
   "\"In another sense, I tested positively toward negative, right? So no. I tested perfectly this morning, meaning I tested negative. But that's a way of saying it. Positively toward the negative.\"",
   "\"I don't take responsibility at all.\"",
-  "\"\"",
 ];
