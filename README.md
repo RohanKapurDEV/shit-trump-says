@@ -3,6 +3,7 @@ This is an app I made for fun when I was bored. It's just a joke app.
 
 ## Build Requirements (for Android)
 Flutter v2.0.0 (minimum)
+
 Android Studio and relevant tooling
 
 ## Build instructions
