@@ -14,6 +14,4 @@ flutter build --release
 ```
 
 ## Screenshots
-<img src="https://i.imgur.com/EFB49a0.jpg" width= 250>
-<img src="https://i.imgur.com/MqXTyy5.jpg" width= 250>
-<img src="https://i.imgur.com/KJlB4XP.jpg" width= 250>
+<img src="https://i.imgur.com/EFB49a0.jpg" width= 250><img src="https://i.imgur.com/Jlkgjfz.jpg" width= 250><img src="https://i.imgur.com/KJlB4XP.jpg" width= 250>
